@@ -1,4 +1,4 @@
-# BlackHat-C-C-For-Pentesters
+# Pentesters
 BlackHat C++ 
 
 ## Contribution
